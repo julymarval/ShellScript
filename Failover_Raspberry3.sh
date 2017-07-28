@@ -3,7 +3,7 @@
 # Created Date: 30/03/2016
 # Modify Date: 12/08/2016
 # Version: 1.6
-# Script that manages the internet conection on a raspberryPi 3 (wired, wireless and 3g modem)
+# Script that manages the internet connection on a raspberryPi 3 (wired, wireless and 3g modem)
 
 ####################### Configuration #####################
 
